@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bdc82c6-7c86-41dc-9543-7d9367d07ea3" name="Changes" comment="add gitignore">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Cursos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="8bdc82c6-7c86-41dc-9543-7d9367d07ea3" name="Changes" comment="desenvolvendo o codigo com conceito de abstração e encapsulamento">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Cursos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Cursos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -86,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658450682188</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="desenvolvendo o codigo com conceito de abstração e encapsulamento">
+      <created>1658454520963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658454520973</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +114,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="add commit" />
     <MESSAGE value="add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+    <MESSAGE value="desenvolvendo o codigo com conceito de abstração e encapsulamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="desenvolvendo o codigo com conceito de abstração e encapsulamento" />
   </component>
 </project>
