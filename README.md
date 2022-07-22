@@ -4,8 +4,7 @@
 
 <div align="center">
 
- [![](https://img.shields.io/badge/🔗-Sobre-blue)](#Sobre-o-desafio) • [![](https://img.shields.io/badge/🔗-Pré%20Requisitos-blue)](#Pré-Requisitos) • [![](https://img.shields.io/badge/🔗-Passo%20a%20Passo-blue)](#Passo-a-Passo) • [![](https://img.shields.io/badge/🔗-Resumo-blue)](#Resumo:) • [![](https://img.shields.io/badge/🔗-Conceitos-blue)](#CONCEITOS-FUNDAMENTAIS-POO:) •  
- [![](https://img.shields.io/badge/🔗-Status-blue)](#Status-do-Projeto) • [![](https://img.shields.io/badge/🔗-Demonstração-blue)](#Demonstração) 
+ [![](https://img.shields.io/badge/🔗-Sobre-blue)](#Sobre-o-desafio) • [![](https://img.shields.io/badge/🔗-Pré%20Requisitos-blue)](#Pré-Requisitos) • [![](https://img.shields.io/badge/🔗-Passo%20a%20Passo-blue)](#Passo-a-Passo) • [![](https://img.shields.io/badge/🔗-Resumo-blue)](#Resumo) • [![](https://img.shields.io/badge/🔗-Conceitos-blue)](#CONCEITOS-FUNDAMENTAIS-POO) 
 
 </div>
 
