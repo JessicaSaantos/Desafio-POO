@@ -23,8 +23,8 @@ Desafio este que tive a experiência de desenvolver com a plataforma de cursos o
 ✅ Git <br>
 ✅ Conta no GitHub <br>
 
-## Passo a Passo: 
-👣
+## Passo a Passo: <h2>👣</h2>
+
  * Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS <br>
  * Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las <br>
  * As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS <br>
