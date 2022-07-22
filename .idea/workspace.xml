@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bdc82c6-7c86-41dc-9543-7d9367d07ea3" name="Changes" comment="desenvolvendo o codigo com conceito de abstração e encapsulamento">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+    <list default="true" id="8bdc82c6-7c86-41dc-9543-7d9367d07ea3" name="Changes" comment="atribuindo classes de dominio, desenvolvendo suas atribuições, tbm os construtores getter's and setter's e equals() and hasCode()">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Cursos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Cursos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658454520973</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="atribuindo classes de dominio, desenvolvendo suas atribuições, tbm os construtores getter's and setter's e equals() and hasCode()">
+      <created>1658499382212</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658499382212</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +117,7 @@
     <MESSAGE value="add commit" />
     <MESSAGE value="add gitignore" />
     <MESSAGE value="desenvolvendo o codigo com conceito de abstração e encapsulamento" />
-    <option name="LAST_COMMIT_MESSAGE" value="desenvolvendo o codigo com conceito de abstração e encapsulamento" />
+    <MESSAGE value="atribuindo classes de dominio, desenvolvendo suas atribuições, tbm os construtores getter's and setter's e equals() and hasCode()" />
+    <option name="LAST_COMMIT_MESSAGE" value="atribuindo classes de dominio, desenvolvendo suas atribuições, tbm os construtores getter's and setter's e equals() and hasCode()" />
   </component>
 </project>
