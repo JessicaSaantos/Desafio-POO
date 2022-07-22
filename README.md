@@ -4,7 +4,7 @@
 
 <div align="center">
 
- [![](https://img.shields.io/badge/🔗-Sobre-blue)](#Sobre-o-desafio) • [![](https://img.shields.io/badge/🔗-Pré%20Requisitos-blue)](#Pré-Requisitos) • [![](https://img.shields.io/badge/🔗-Passo%20a%20Passo-blue)](#Passo-a-Passo) • [![](https://img.shields.io/badge/🔗-Resumo-blue)](#Resumo) • [![](https://img.shields.io/badge/🔗-Conceitos-blue)](#CONCEITOS-FUNDAMENTAIS-POO) 
+ [![](https://img.shields.io/badge/🔗-Sobre-blue)](#Sobre-o-desafio) • [![](https://img.shields.io/badge/🔗-Pré--Requisitos-blue)](#Pré-Requisitos) • [![](https://img.shields.io/badge/🔗-Passo%20a%20Passo-blue)](#Passo-a-Passo) • [![](https://img.shields.io/badge/🔗-Resumo-blue)](#Resumo) • [![](https://img.shields.io/badge/🔗-Conceitos-blue)](#CONCEITOS-FUNDAMENTAIS-POO) 
 
 </div>
 
@@ -23,7 +23,7 @@ Desafio este que tive a experiência de desenvolver com a plataforma de cursos o
 ✅ Git <br>
 ✅ Conta no GitHub <br>
 
-## 👣 Passo-a-Passo:
+## 👣 Passo a Passo:
  * Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS <br>
  * Criaremos as CLASSES: Bootcamp, Cursos, Mentorias e Devs e vamos relaciona-las <br>
  * As CLASSES Curso, Mentoria e Devs também serão MODELADOS, ou seja, criaremos seus ATRIBUTOS E MÉTODOS <br>
